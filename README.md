@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anderssonslv
+- 👀 I’m interested in Tecnology
+- 🌱 I’m currently learning HTML, CSS, JS and Python
+- 💞️ I’m looking to collaborate on webdevelopment
+- 📫 How to reach me anderssonpython@gmail.com
